@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFreborn22 a.k.a akmal fauzan
 - 👀 I’m interested in everything related to computers, especially coding
-- 🌱 I’m currently learning html, css, javascript, react js, c++, c#
+- 🌱 I’m currently learning html, css, javascript, react js, c++, c#, python
 
 <!---
 AFreborn22/AFreborn22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
